@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bindtuning/DevOps%20Challenge%20II/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/bindtuning/DevOps%20Challenge%20II/_build/latest?definitionId=43&branchName=master)
 
 # Contributing
 
